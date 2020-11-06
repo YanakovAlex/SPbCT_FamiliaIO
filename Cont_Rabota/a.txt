@@ -1,0 +1,4 @@
+1 '10:00' Math 219 
+3 '16:30' Geometry 413 
+4 '13:00' Alchemy 311 
+5 '18:05' Literature 349 

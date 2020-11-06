@@ -1,0 +1,2 @@
+C:\Programs_C++\Cont_Rabota\Debug\Cont_Rabota.exe
+C:\Programs_C++\Cont_Rabota\Debug\Cont_Rabota.pdb
